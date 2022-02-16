@@ -1,4 +1,3 @@
-# react-rmdb-responsive
-A new updated responsive design for my course App React RMDB
+# Keiths Movie App
 
-This is a new, updated, version of my course App React RMDB. I've added responsive style and a style update for certain elements.
+This is a React app that connects to the MovieDB API this can be viewed at https://keithsmovieapp.netlify.app/ 
